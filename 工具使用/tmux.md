@@ -1,0 +1,5 @@
+- 直接使用 tmux 回车新建会话:
+- 返回终端, 后台保持 session : `ctrl-b d`
+- 列出所有session: `tmux list-sessions`
+- 进入 session: `tmux attach -t N` N为 session 号
+- 结束 session: `tmux kill-session -t N`

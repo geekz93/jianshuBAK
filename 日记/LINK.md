@@ -1,0 +1,2 @@
+- 荔枝病: http://baike.baidu.com/vbaike/你知道“荔枝病”么/18025
+- [mysql学习](http://www.w3cschool.cn/mysql/)
