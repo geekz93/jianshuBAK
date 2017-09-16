@@ -6,6 +6,12 @@
 
 - **格式化输出：** `temp = '%.2f, %s, %d'; temp%(2.342, 'sf', 2)`
 
+- **排序：**
+ ```
+sorted(...)
+    sorted(iterable, cmp=None, key=None, reverse=False)
+```
+
 - **zip：** 按照最短的打包
 ```
 >>> list(zip('ab', 'abcd', 'efg')) # ab串最短
